@@ -1,6 +1,6 @@
 - 👋 Hi, meu nome é Ryan Víctor
 - 👀 Sou aluno do curso de informática no IFPE-Campus Garanhuns e almejo cursar a faculdade de engenharia de software
-- 🌱 Recentemente tenho aprendido Java 
+- 🌱 Recentemente tenho concluído o curso de programação web
 - 💞️ Busco aprendizado e colaboração com a comunidade 
 - 📬
 
