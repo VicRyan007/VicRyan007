@@ -5,8 +5,6 @@
 
 - 🔭 Atualmente trabalho no projeto [Starfish](https://github.com/StarfishCloud)
 
-- 🌱Ultimamente tenho aprendido: **React,mongoDB e Node**
-
 - 👨‍💻 Todos os meus projetos podem ser encontrados aqui no github [https://github.com/VicRyan007](https://github.com/VicRyan007)
 
 - 💬 Sobre mim: **Me considero um nerd , curto bastante coisas relacionadas , como Star Wars , o universo Marvel e coisas assim. Também me considero um amante de Rock, sertanejo e estilos mais calmos como cantos gregorianos. Também como amante de tecnologia , não podia me esquecer de mencionar que sou um fã de jogos. Nas horas vagas é possível me ver online “descansando” a mente. Me considero um grande leitor, curto muito conteúdo do gênero épico ficcional.**
