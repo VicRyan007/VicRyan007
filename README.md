@@ -9,7 +9,7 @@
 
 - 💬 Sobre mim: **Me considero um nerd , curto bastante coisas relacionadas , como Star Wars , o universo Marvel e coisas assim. Também me considero um amante de Rock, sertanejo e estilos mais calmos como cantos gregorianos. Também como amante de tecnologia , não podia me esquecer de mencionar que sou um fã de jogos. Nas horas vagas é possível me ver online “descansando” a mente. Me considero um grande leitor, curto muito conteúdo do gênero épico ficcional.**
 
-- 📫 Como me contactar: **ryannautico306@gmail.com**
+- 📫 Como me contactar: **ryan.viktordeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
