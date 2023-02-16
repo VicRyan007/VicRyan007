@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicryan007&show_icons=true&locale=en&layout=compact" alt="vicryan007" /></p>
 
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=vicryan007&show_icons=true&locale=en" alt="vicryan007" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vicryan007&show_icons=true&locale=en" alt="vicryan007" /></p>
