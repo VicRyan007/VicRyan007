@@ -1,4 +1,4 @@
-<br>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9E57E0&size=35&center=true&vCenter=true&width=1000&lines=Hi👋🏿,+I´m+Ryan;I have+20+years.;I+ from+Garanhuns,+Pernambuco,+Brasil.;Sou+estudante+de+ADS+no+IFPE.;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+<br>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Denilson+da+Silva+Pereira.;Tenho+24+anos.;Eu+sou+de+Pernambuco,+Brasil.;Sou+estudante+de+ADS+no+IFPE.;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 <h3 align="center">Um dev em constante em evolução...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicryan007&label=Profile%20views&color=0e75b6&style=flat" alt="vicryan007" /> </p>
