@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicryan007&label=Profile%20views&color=0e75b6&style=flat" alt="vicryan007" /> </p>
 
-- 🔭 Atualmente trabalho no projeto [Starfish](https://github.com/StarfishCloud)
+- 🔭 Atualmente trabalho no projeto [Starfish](https://github.com/StarfishCloud) e estagio na CompassUOL
 
 - 👨‍💻 Todos os meus projetos podem ser encontrados aqui no github [https://github.com/VicRyan007](https://github.com/VicRyan007)
 
