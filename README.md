@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicryan007&label=Profile%20views&color=0e75b6&style=flat" alt="vicryan007" /> </p>
 
-- 🔭 Atualmente atuo no projeto [Starfish](https://github.com/StarfishCloud) 
+- 👨‍💻 Java Backend Developer 
 
-- 👨‍💻 Todos os meus projetos podem ser encontrados aqui no github [https://github.com/VicRyan007](https://github.com/VicRyan007)
+- 🔭 Atualmente atuo no projeto [Starfish](https://github.com/StarfishCloud) 
 
 - 💬 Sobre mim: **"Me considero um nerd, adoro Star Wars e o universo Marvel, além de ser um fã de Rock, sertanejo e até cantos gregorianos. Sou um entusiasta de tecnologia e games, passando algumas horas online nos momentos vagos. Além disso, sou um grande leitor, especialmente de épico ficcional.".**
 
