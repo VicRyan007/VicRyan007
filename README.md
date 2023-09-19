@@ -5,18 +5,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicryan007&label=Profile%20views&color=0e75b6&style=flat" alt="vicryan007" /> </p>
 
-- 🔭 Atualmente trabalho no projeto [Starfish](https://github.com/StarfishCloud) e estagio na CompassUOL
+- 🔭 Atualmente atuo no projeto [Starfish](https://github.com/StarfishCloud) 
 
 - 👨‍💻 Todos os meus projetos podem ser encontrados aqui no github [https://github.com/VicRyan007](https://github.com/VicRyan007)
 
-- 💬 Sobre mim: **Me considero um nerd , curto bastante coisas relacionadas , como Star Wars , o universo Marvel e coisas assim. Também me considero um amante de Rock, sertanejo e estilos mais calmos como cantos gregorianos. Também como amante de tecnologia , não podia me esquecer de mencionar que sou um fã de jogos. Nas horas vagas é possível me ver online “descansando” a mente. Me considero um grande leitor, curto muito conteúdo do gênero épico ficcional.**
+- 💬 Sobre mim: **Entendi, aqui está uma versão mais concisa:
+
+"Me considero um nerd, adoro Star Wars e o universo Marvel, além de ser um fã de Rock, sertanejo e até cantos gregorianos. Sou um entusiasta de tecnologia e games, passando algumas horas online nos momentos vagos. Além disso, sou um grande leitor, especialmente de épico ficcional.".**
 
 - 📫 Como me contactar: **ryan.viktordeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ryan-v%c3%adctor-56671a217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryan-v%c3%adctor-56671a217" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rviktor_fc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rviktor_fc/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/rviktor_fc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/r.viktor_fc/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
