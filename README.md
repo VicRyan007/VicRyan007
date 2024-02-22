@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Changa&weight=500&size=30&duration=3000&pause=1000&color=9E57E0&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%F0%9F%8F%BF%2CSou+Ryan+V%C3%ADctor+%F0%9F%91%A8%F0%9F%8F%BE;Tenho+20+anos%F0%9F%90%A3;Atualmente+curso+ADS+no+IFPE+Campus+Garanhuns+%F0%9F%92%BB;Seja+bem-+vindo(a)+e+aproveite+a+vista+%F0%9F%98%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Changa&weight=500&size=30&duration=3000&pause=1000&color=9E57E0&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%F0%9F%8F%BF%2CSou+Ryan+V%C3%ADctor+%F0%9F%91%A8%F0%9F%8F%BE;Tenho+21+anos%F0%9F%90%A3;Atualmente+curso+ADS+no+IFPE+Campus+Garanhuns+%F0%9F%92%BB;Seja+bem-+vindo(a)+e+aproveite+a+vista+%F0%9F%98%89)](https://git.io/typing-svg)
 
 <h3 align="center">Um dev em constante em evolução...</h3>
 
